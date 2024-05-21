@@ -1,3 +1,30 @@
 [submodule "smile"]
 	path = smile
 	url = https://github.com/icedTea2K/smile
+[submodule "ChefCart"]
+	path = ChefCart
+	url = https://github.com/DavDeDev/ChefCart
+[submodule "EasyRecipe"]
+	path = EasyRecipe
+	url = https://github.com/IcedTea2K/EasyRecipe
+[submodule "ProtonNews"]
+	path = ProtonNews
+	url = https://github.com/Hgjnnf/ProtonNews
+[submodule "UBC-Course-Scheduler"]
+	path = UBC-Course-Scheduler
+	url = https://github.com/ayesha604/UBC-Course-Scheduler
+[submodule "event-quest"]
+	path = event-quest
+	url = https://github.com/daniel-panhead/event-quest
+[submodule "hw-react"]
+	path = hw-react
+	url = https://github.com/noahlepage/hw-react
+[submodule "sparrow.swiftpm"]
+	path = sparrow.swiftpm
+	url = https://github.com/IcedTea2K/Sparrow
+[submodule "github-stats"]
+	path = github-stats
+	url = https://github.com/Dragola/dev-stats/tree/master
+[submodule "wy.ai"]
+	path = wy.ai
+	url = https://github.com/daniel-panhead/wy.ai
