@@ -24,7 +24,7 @@
 	url = https://github.com/IcedTea2K/Sparrow
 [submodule "github-stats"]
 	path = github-stats
-	url = https://github.com/Dragola/dev-stats/tree/master
+	url = https://github.com/Dragola/dev-stats/
 [submodule "wy.ai"]
 	path = wy.ai
 	url = https://github.com/daniel-panhead/wy.ai
